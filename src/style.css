@@ -1,0 +1,18 @@
+.container {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 4em;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1em;
+}
+.canvas-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5em;
+}
+.label {
+    font-weight: bold;
+    font-size: large;
+    font-family: sans-serif;
+}
